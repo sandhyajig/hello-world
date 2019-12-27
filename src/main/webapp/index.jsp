@@ -8,5 +8,5 @@
 	<p>
 		It is now
 	<p>
-		You are coming from Sandhya PC</p>
+		You are coming from Sandhya JignasPC</p>
 </body>
